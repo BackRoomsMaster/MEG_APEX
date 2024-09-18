@@ -1,0 +1,2 @@
+Parte 8: Rilevazioni Elettromagnetiche
+I campi elettromagnetici nel livello 2 sono estremamente variabili. I sensori indicano picchi improvvisi di radiazioni EM, che interferiscono con dispositivi elettronici e radiofrequenze. Questi campi potrebbero essere la causa delle interferenze riscontrate nelle apparecchiature di navigazione. Le fonti di queste emissioni sono sconosciute, ma sembrano essere distribuite in modo non omogeneo lungo i corridoi.
